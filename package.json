@@ -1,0 +1,8 @@
+{
+  "name": "alice-groq-skill",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js"
+  }
+}
